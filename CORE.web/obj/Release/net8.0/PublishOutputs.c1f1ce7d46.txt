@@ -1,0 +1,7 @@
+D:\WorkShop\AZ\CORE\CORE.web\bin\Release\net8.0\publish\CORE.web.exe
+D:\WorkShop\AZ\CORE\CORE.web\bin\Release\net8.0\publish\appsettings.Development.json
+D:\WorkShop\AZ\CORE\CORE.web\bin\Release\net8.0\publish\appsettings.json
+D:\WorkShop\AZ\CORE\CORE.web\bin\Release\net8.0\publish\CORE.web.dll
+D:\WorkShop\AZ\CORE\CORE.web\bin\Release\net8.0\publish\CORE.web.deps.json
+D:\WorkShop\AZ\CORE\CORE.web\bin\Release\net8.0\publish\CORE.web.runtimeconfig.json
+D:\WorkShop\AZ\CORE\CORE.web\bin\Release\net8.0\publish\CORE.web.pdb
